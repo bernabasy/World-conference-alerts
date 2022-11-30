@@ -35,12 +35,20 @@
 ## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
 
 <!-- Features -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features <a name="key-features"></a>
 
 - Responsive 
 - Fast
 - Modern
+- Dynamic (Speakers Section)
+- featured-activities Section
+- footer Section
+- logo Section
+- about Section
+- invitation Section
+- partners Section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

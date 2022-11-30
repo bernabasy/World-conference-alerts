@@ -25,7 +25,7 @@ const activitiesArray = [
     id: '2',
     image: 'images/speaker_02.png',
     tittle: 'Nuit Blanche Kids Zone at ',
-    place: '.', 
+    place: 'new',
     city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 

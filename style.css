@@ -869,6 +869,10 @@ a:link {
     height: auto;
   }
 
+  .logo {
+    padding-left: 7%;
+  }
+
   a.nav-items {
     color: rgb(58, 203, 70);
   }

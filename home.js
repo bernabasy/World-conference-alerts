@@ -89,8 +89,6 @@ const createActivities = () => {
     img.classList.add('event-img');
     img.setAttribute('src', item.image);
     img.setAttribute('alt', 'National Day for Truth & Reconciliation');
-    img.setAttribute('width', '30%');
-    img.setAttribute('height', '150');
     event.appendChild(img);
 
     const info = document.createElement('div');

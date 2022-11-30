@@ -54,7 +54,7 @@
 
 > Here is a link to loom video.
 
-- [----)
+- [https://www.loom.com/share/1e061427fc11474f8af98f627e0eb519)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

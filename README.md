@@ -35,12 +35,20 @@
 ## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
 
 <!-- Features -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features <a name="key-features"></a>
 
 - Responsive 
 - Fast
 - Modern
+- Dynamic (Speakers Section)
+- featured-activities Section
+- footer Section
+- logo Section
+- about Section
+- invitation Section
+- partners Section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,11 +58,11 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](https://bernabasy.github.io/Capstone-project-one/)
+- [Live Demo Link](https://bernabasy.github.io/FIRST-CAPSTONE-PROJECT/)
 
 > Here is a link to loom video.
 
-- [Loom Video Link](https://www.loom.com/share/92aff8e92a3f44e8a44329e32b6c07e6)
+- [https://www.loom.com/share/1e061427fc11474f8af98f627e0eb519)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

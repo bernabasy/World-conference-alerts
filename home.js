@@ -18,15 +18,15 @@ const activitiesArray = [
     image: 'images/speaker_01.png',
     tittle: 'Remembering the Children:',
     place: 'ew Iceland Heritage Museum & Independent',
-    city: 'Gimli, MB',
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 
   {
     id: '2',
     image: 'images/speaker_02.png',
     tittle: 'Nuit Blanche Kids Zone at ',
-    place: 'Manitoba Childrens Museum',
-    city: 'Winnipeg, MB',
+    place: '', 
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 
   {
@@ -34,7 +34,7 @@ const activitiesArray = [
     image: 'images/speaker_03.png',
     tittle: 'WSO Community Celebration ',
     place: 'Centennial Concert Hall',
-    city: 'Winnipeg, MB',
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 
   {
@@ -42,7 +42,7 @@ const activitiesArray = [
     image: 'images/speaker_04.png',
     tittle: 'Nuit Blanche @ WAG',
     place: 'WAG-Qaumajuq',
-    city: 'Winnipeg, MB',
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 
   {
@@ -50,7 +50,7 @@ const activitiesArray = [
     image: 'images/speaker_05.png',
     tittle: 'Kidz Culture',
     place: 'Creekside Park',
-    city: 'Flin Flon, MB',
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 
   {
@@ -58,7 +58,7 @@ const activitiesArray = [
     image: 'images/speaker_06.png',
     tittle: 'Glen Williams Open Studios ',
     place: 'Williams Mill Creative Art Studios',
-    city: 'Halton Hills, ON',
+    city: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur harum.',
   },
 ];
 
@@ -90,7 +90,7 @@ const createActivities = () => {
     img.setAttribute('src', item.image);
     img.setAttribute('alt', 'National Day for Truth & Reconciliation');
     img.setAttribute('width', '30%');
-    img.setAttribute('height', 'auto');
+    img.setAttribute('height', '150');
     event.appendChild(img);
 
     const info = document.createElement('div');

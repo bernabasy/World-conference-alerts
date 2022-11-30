@@ -487,7 +487,6 @@ a:link {
   background: transparent;
   border-radius: 5px;
   margin-top: 60px;
-  margin-bottom: 50px;
   justify-content: center;
   align-items: center;
   gap: 10px;
@@ -547,6 +546,10 @@ a:link {
 
 #sponsor2 {
   display: block;
+}
+
+.footer-non {
+  display: none;
 }
 
 @media (max-width: 768px) {
@@ -874,6 +877,10 @@ a:link {
     height: 50px;
     margin-top: 1%;
   }
+
+  .footer-non {
+    display: block;
+  }
 }
 
 .nav-actives {
@@ -915,4 +922,8 @@ a:link {
   border-bottom-style: solid;
   border-bottom-color: #f1f1f1;
   padding-top: 40px;
+}
+
+.red {
+  color: rgb(255, 0, 0);
 }

@@ -52,6 +52,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+> Describe between 1-3 key features of the application.
+- **[add more animation]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>

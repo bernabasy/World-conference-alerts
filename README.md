@@ -50,11 +50,11 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](https://bernabasy.github.io/Capstone-project-one/)
+- [Live Demo Link](https://bernabasy.github.io/FIRST-CAPSTONE-PROJECT/)
 
 > Here is a link to loom video.
 
-- [Loom Video Link](https://www.loom.com/share/92aff8e92a3f44e8a44329e32b6c07e6)
+- [----)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

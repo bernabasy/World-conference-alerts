@@ -137,8 +137,10 @@
 .text-about {
   display: flex;
   justify-content: center;
-  font-size: 1.7vh;
-  margin-top: 3%;
+  font-size: 2.2vh;
+  margin-top: 7%;
+  max-width: 70%;
+  margin-inline: auto;
 }
 
 .locate {
@@ -169,6 +171,8 @@
   width: 100%;
   margin: auto;
   padding: 12%;
+  padding-inline: 4%;
+  text-align: center;
 }
 
 .about,
@@ -200,15 +204,16 @@
   display: flex;
   justify-content: center;
   color: #272a31;
-  font-size: 2vh;
   padding-top: 6%;
   font-weight: 500;
+  text-align: center;
 }
 
 .logo-msg {
   display: flex;
   padding-inline: 10%;
   padding-bottom: 3%;
+  text-align: center;
 }
 
 .logo-img1 {
@@ -228,6 +233,10 @@
   height: auto;
   align-items: center;
   margin-left: 25%;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border-style: solid;
+  border-color: #d3d3d340;
 }
 
 .img-past-wrap {
@@ -451,7 +460,7 @@ a:link {
 
 .footer-logo-main {
   width: 50%;
-  height: 30px;
+  height: 35px;
 }
 
 .featured-activities {
@@ -706,13 +715,16 @@ a:link {
   .invite-wrap {
     padding-inline: 5px;
     padding-top: 2px;
-    margin-inline: 60px;
     margin-top: 2%;
     border: 4px solid #fff;
     background-color: #f7f7f8;
     font-size: 2.5vh;
     opacity: 150%;
     max-width: 700px;
+  }
+
+  .invite-wrap-about {
+    margin-inline: auto;
   }
 
   .program-list {
@@ -795,9 +807,9 @@ a:link {
     font-weight: 400;
     line-height: 25px;
     color: #272a32;
-    font-size: 16px;
     align-content: center;
     justify-content: center;
+    font-size: 2.2vh;
   }
 
   .place-event {
@@ -837,6 +849,7 @@ a:link {
 
   .secondary-tittle {
     font-size: 30px;
+    text-align: center;
   }
 
   .see-more-wrap {
@@ -896,10 +909,6 @@ a:link {
   color: #48ff00;
 }
 
-.logo {
-  padding-left: 8%;
-}
-
 .logoabut {
   padding-left: 13%;
 }
@@ -926,4 +935,9 @@ a:link {
 
 .red {
   color: rgb(255, 0, 0);
+}
+
+.event-img {
+  width: 30%;
+  height: 150px;
 }

@@ -42,18 +42,12 @@
 - Responsive 
 - Fast
 - Modern
-- Dynamic (Speakers Section)
-- featured-activities Section
-- footer Section
-- logo Section
-- about Section
-- invitation Section
-- partners Section
+- Dynamic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 > Describe between 1-3 key features of the application.
-- **[add more animation]**
+- **Add dark mode**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->

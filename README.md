@@ -5,7 +5,7 @@
   <img src="images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Capstone-project-one</b></h3>
+  <h3><b>World conference alerts</b></h3>
 
 </div>
 
@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone-project-one <a name="about-project"></a>
+# 📖 World conference alerts <a name="about-project"></a>
 
-> This is the first capstone project in microverse course.
+> This project is an informative website that shows world conference alerts. The user can find all information regarding the conferences on this website. It's built with JavaScript, HTML, and CSS.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
 

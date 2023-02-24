@@ -218,8 +218,8 @@
 
 .logo-img1 {
   display: none;
-  width: 120px;
-  height: 40px;
+  width: 100px;
+  height: 50px;
   background-color: #f7f7f8;
   margin-top: 5px;
 }
@@ -947,6 +947,6 @@ a:link {
 }
 
 .arrow-img {
-  width: 10px;
-  height: 15px;
+  width: 15px;
+  height: 10px;
 }

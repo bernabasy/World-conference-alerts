@@ -124,8 +124,6 @@ const createActivities = () => {
   arrowImg.classList.add('arrow-img');
   arrowImg.setAttribute('src', 'images/arrow_down.png');
   arrowImg.setAttribute('alt', 'arrow icon');
-  arrowImg.setAttribute('width', '15');
-  arrowImg.setAttribute('height', '10');
   seeMore.appendChild(arrowImg);
 };
 

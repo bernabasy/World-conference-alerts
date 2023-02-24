@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>World conference alerts</b></h3>
@@ -56,7 +55,7 @@
 
 > Here is a link to deployed project.
 
-- [Live Demo Link](https://bernabasy.github.io/FIRST-CAPSTONE-PROJECT/)
+- [Live Demo Link](https://bernabasy.github.io/World-conference-alerts/)
 
 - [Here is a link to loom video](https://www.loom.com/share/1e061427fc11474f8af98f627e0eb519)
 

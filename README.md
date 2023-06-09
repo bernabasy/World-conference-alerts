@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
-
-<div align="center">
-
-  <br/>
-
-  <h3><b>World conference alerts</b></h3>
-
-</div>
+![image](https://github.com/bernabasy/World-conference-alerts/assets/104406349/eba25894-af86-4e7e-822f-72522ea6a35f)
 
 <!-- TABLE OF CONTENTS -->
 

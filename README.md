@@ -29,9 +29,9 @@
 
 # 📖 World conference alerts <a name="about-project"></a>
 
-> This project is an informative website that shows world conference alerts. The user can find all information regarding the conferences on this website. It's built with JavaScript, HTML, and CSS.
+> This project is an informative website that shows world conference alerts. The user can find all information regarding the conferences on this website. It's built with HTML, CSS, and JavaScript..
 
-## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
+## 🛠 Built With <a name="built-with">HTML, CSS, and JavaScript.t</a>
 
 <!-- Features -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

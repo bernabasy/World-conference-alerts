@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 ![image](https://github.com/bernabasy/World-conference-alerts/assets/104406349/eba25894-af86-4e7e-822f-72522ea6a35f)
+![image](https://github.com/bernabasy/World-conference-alerts/assets/104406349/79cb11df-b247-4be3-8ca3-2230eed4840c)
+![image](https://github.com/bernabasy/World-conference-alerts/assets/104406349/2e0292ed-6724-497a-bcec-c78e44c34d6d)
+
+
 
 <!-- TABLE OF CONTENTS -->
 
